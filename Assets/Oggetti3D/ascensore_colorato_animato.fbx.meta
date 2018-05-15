@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 47671cd0e239f87428a0b8e63b35bec3
+timeCreated: 1525342754
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ascensore_obj
+    100004: CINEMA_4D_Editor
+    100006: Cube
+    100008: Cube_1
+    100010: Cube_2
+    100012: Cube_2_2
+    100014: Cube_7
+    100016: Cube_8
+    100018: Cylinder
+    100020: Cylinder_1
+    100022: Plane
+    100024: Plane_1
+    100026: Plane_2
+    100028: Plane_3
+    100030: Plane_4
+    100032: Plane_5
+    100034: Plane_6
+    100036: Plane_7
+    100038: porta
+    100040: tasti
+    100042: tastifuori
+    100044: Torus
+    400000: //RootNode
+    400002: ascensore_obj
+    400004: CINEMA_4D_Editor
+    400006: Cube
+    400008: Cube_1
+    400010: Cube_2
+    400012: Cube_2_2
+    400014: Cube_7
+    400016: Cube_8
+    400018: Cylinder
+    400020: Cylinder_1
+    400022: Plane
+    400024: Plane_1
+    400026: Plane_2
+    400028: Plane_3
+    400030: Plane_4
+    400032: Plane_5
+    400034: Plane_6
+    400036: Plane_7
+    400038: porta
+    400040: tasti
+    400042: tastifuori
+    400044: Torus
+    2300000: Cube
+    2300002: Cube_1
+    2300004: Cube_2
+    2300006: Cube_2_2
+    2300008: Cube_7
+    2300010: Cube_8
+    2300012: Cylinder
+    2300014: Cylinder_1
+    2300016: Plane
+    2300018: Plane_1
+    2300020: Plane_2
+    2300022: Plane_3
+    2300024: Plane_4
+    2300026: Plane_5
+    2300028: Plane_6
+    2300030: Plane_7
+    2300032: Torus
+    3300000: Cube
+    3300002: Cube_1
+    3300004: Cube_2
+    3300006: Cube_2_2
+    3300008: Cube_7
+    3300010: Cube_8
+    3300012: Cylinder
+    3300014: Cylinder_1
+    3300016: Plane
+    3300018: Plane_1
+    3300020: Plane_2
+    3300022: Plane_3
+    3300024: Plane_4
+    3300026: Plane_5
+    3300028: Plane_6
+    3300030: Plane_7
+    3300032: Torus
+    4300000: Plane_7
+    4300002: Plane_6
+    4300004: Plane_5
+    4300006: Plane_4
+    4300008: Plane_3
+    4300010: Plane_2
+    4300012: Plane_1
+    4300014: Plane
+    4300016: Cube
+    4300018: Torus
+    4300020: Cube_8
+    4300022: Cylinder_1
+    4300024: Cylinder
+    4300026: Cube_7
+    4300028: Cube_2
+    4300030: Cube_1
+    4300032: Cube_2_2
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

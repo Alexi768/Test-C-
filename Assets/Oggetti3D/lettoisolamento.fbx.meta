@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 8b7a727919368444a9f36d801a213c7d
+timeCreated: 1525342800
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: catene
+    100002: CINEMA_4D_Editor
+    100004: Cube
+    100006: //RootNode
+    100008: lettoisolamento_obj
+    100010: Torus
+    100012: Torus_1
+    100014: Torus_10
+    100016: Torus_11
+    100018: Torus_12
+    100020: Torus_13
+    100022: Torus_14
+    100024: Torus_15
+    100026: Torus_16
+    100028: Torus_17
+    100030: Torus_2
+    100032: Torus_3
+    100034: Torus_4
+    100036: Torus_5
+    100038: Torus_6
+    100040: Torus_7
+    100042: Torus_8
+    100044: Torus_9
+    400000: catene
+    400002: CINEMA_4D_Editor
+    400004: Cube
+    400006: //RootNode
+    400008: lettoisolamento_obj
+    400010: Torus
+    400012: Torus_1
+    400014: Torus_10
+    400016: Torus_11
+    400018: Torus_12
+    400020: Torus_13
+    400022: Torus_14
+    400024: Torus_15
+    400026: Torus_16
+    400028: Torus_17
+    400030: Torus_2
+    400032: Torus_3
+    400034: Torus_4
+    400036: Torus_5
+    400038: Torus_6
+    400040: Torus_7
+    400042: Torus_8
+    400044: Torus_9
+    2300000: Cube
+    2300002: Torus
+    2300004: Torus_1
+    2300006: Torus_10
+    2300008: Torus_11
+    2300010: Torus_12
+    2300012: Torus_13
+    2300014: Torus_14
+    2300016: Torus_15
+    2300018: Torus_16
+    2300020: Torus_17
+    2300022: Torus_2
+    2300024: Torus_3
+    2300026: Torus_4
+    2300028: Torus_5
+    2300030: Torus_6
+    2300032: Torus_7
+    2300034: Torus_8
+    2300036: Torus_9
+    3300000: Cube
+    3300002: Torus
+    3300004: Torus_1
+    3300006: Torus_10
+    3300008: Torus_11
+    3300010: Torus_12
+    3300012: Torus_13
+    3300014: Torus_14
+    3300016: Torus_15
+    3300018: Torus_16
+    3300020: Torus_17
+    3300022: Torus_2
+    3300024: Torus_3
+    3300026: Torus_4
+    3300028: Torus_5
+    3300030: Torus_6
+    3300032: Torus_7
+    3300034: Torus_8
+    3300036: Torus_9
+    4300000: Cube
+    4300002: Torus_17
+    4300004: Torus_16
+    4300006: Torus_15
+    4300008: Torus_14
+    4300010: Torus_13
+    4300012: Torus_12
+    4300014: Torus_11
+    4300016: Torus_10
+    4300018: Torus_9
+    4300020: Torus_8
+    4300022: Torus_7
+    4300024: Torus_6
+    4300026: Torus_5
+    4300028: Torus_4
+    4300030: Torus_3
+    4300032: Torus_2
+    4300034: Torus_1
+    4300036: Torus
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

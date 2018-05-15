@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: b9d7759293cf800419cc65797b53424f
+timeCreated: 1525342795
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Hospital_bed_Carpet_metal3
+    100004: Hospital_bed_Carpet_metal4
+    100006: Hospital_bed_Mattress_Mattress
+    100008: Hospital_bed_Metal_bed_Metal
+    100010: Hospital_bed_Metal_Metal_bed1
+    100012: Hospital_bed_Metal_Metal_bed2
+    100014: Hospital_bed_Metal_Metal_bed3
+    100016: Hospital_bed_Metal_Metal_bed4
+    100018: Hospital_bed_Metal_Metal_bed5
+    100020: Hospital_bed_Metal_Metal_bed6
+    100022: Hospital_bed_Metal_Metal_bed7
+    100024: Hospital_bed_Metal_Metal_bed9
+    100026: Hospital_bed_Pillow1_Pillow
+    100028: //RootNode
+    100030: letto_normale_obj
+    100032: Sheet1_Sheets_Hospital_bed
+    100034: Sheets_Hospital_bed_Sheet2
+    400000: CINEMA_4D_Editor
+    400002: Hospital_bed_Carpet_metal3
+    400004: Hospital_bed_Carpet_metal4
+    400006: Hospital_bed_Mattress_Mattress
+    400008: Hospital_bed_Metal_bed_Metal
+    400010: Hospital_bed_Metal_Metal_bed1
+    400012: Hospital_bed_Metal_Metal_bed2
+    400014: Hospital_bed_Metal_Metal_bed3
+    400016: Hospital_bed_Metal_Metal_bed4
+    400018: Hospital_bed_Metal_Metal_bed5
+    400020: Hospital_bed_Metal_Metal_bed6
+    400022: Hospital_bed_Metal_Metal_bed7
+    400024: Hospital_bed_Metal_Metal_bed9
+    400026: Hospital_bed_Pillow1_Pillow
+    400028: //RootNode
+    400030: letto_normale_obj
+    400032: Sheet1_Sheets_Hospital_bed
+    400034: Sheets_Hospital_bed_Sheet2
+    2300000: Hospital_bed_Carpet_metal3
+    2300002: Hospital_bed_Carpet_metal4
+    2300004: Hospital_bed_Mattress_Mattress
+    2300006: Hospital_bed_Metal_bed_Metal
+    2300008: Hospital_bed_Metal_Metal_bed1
+    2300010: Hospital_bed_Metal_Metal_bed2
+    2300012: Hospital_bed_Metal_Metal_bed3
+    2300014: Hospital_bed_Metal_Metal_bed4
+    2300016: Hospital_bed_Metal_Metal_bed5
+    2300018: Hospital_bed_Metal_Metal_bed6
+    2300020: Hospital_bed_Metal_Metal_bed7
+    2300022: Hospital_bed_Metal_Metal_bed9
+    2300024: Hospital_bed_Pillow1_Pillow
+    2300026: Sheet1_Sheets_Hospital_bed
+    2300028: Sheets_Hospital_bed_Sheet2
+    3300000: Hospital_bed_Carpet_metal3
+    3300002: Hospital_bed_Carpet_metal4
+    3300004: Hospital_bed_Mattress_Mattress
+    3300006: Hospital_bed_Metal_bed_Metal
+    3300008: Hospital_bed_Metal_Metal_bed1
+    3300010: Hospital_bed_Metal_Metal_bed2
+    3300012: Hospital_bed_Metal_Metal_bed3
+    3300014: Hospital_bed_Metal_Metal_bed4
+    3300016: Hospital_bed_Metal_Metal_bed5
+    3300018: Hospital_bed_Metal_Metal_bed6
+    3300020: Hospital_bed_Metal_Metal_bed7
+    3300022: Hospital_bed_Metal_Metal_bed9
+    3300024: Hospital_bed_Pillow1_Pillow
+    3300026: Sheet1_Sheets_Hospital_bed
+    3300028: Sheets_Hospital_bed_Sheet2
+    4300000: Hospital_bed_Carpet_metal4
+    4300002: Hospital_bed_Carpet_metal3
+    4300004: Hospital_bed_Mattress_Mattress
+    4300006: Hospital_bed_Pillow1_Pillow
+    4300008: Hospital_bed_Metal_Metal_bed9
+    4300010: Hospital_bed_Metal_Metal_bed7
+    4300012: Hospital_bed_Metal_Metal_bed6
+    4300014: Hospital_bed_Metal_Metal_bed5
+    4300016: Hospital_bed_Metal_Metal_bed4
+    4300018: Hospital_bed_Metal_Metal_bed3
+    4300020: Hospital_bed_Metal_Metal_bed2
+    4300022: Hospital_bed_Metal_Metal_bed1
+    4300024: Hospital_bed_Metal_bed_Metal
+    4300026: Sheets_Hospital_bed_Sheet2
+    4300028: Sheet1_Sheets_Hospital_bed
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

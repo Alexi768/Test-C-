@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 9f56f931f29f5a240bdf386ef2b021b2
+timeCreated: 1525680170
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Generic
+    100002: Generic 1
+    100004: Generic 10
+    100006: Generic 11
+    100008: Generic 12
+    100010: Generic 13
+    100012: Generic 14
+    100014: Generic 15
+    100016: Generic 16
+    100018: Generic 17
+    100020: Generic 18
+    100022: Generic 19
+    100024: Generic 2
+    100026: Generic 20
+    100028: Generic 21
+    100030: Generic 22
+    100032: Generic 23
+    100034: Generic 24
+    100036: Generic 25
+    100038: Generic 26
+    100040: Generic 27
+    100042: Generic 28
+    100044: Generic 29
+    100046: Generic 3
+    100048: Generic 30
+    100050: Generic 31
+    100052: Generic 32
+    100054: Generic 33
+    100056: Generic 34
+    100058: Generic 35
+    100060: Generic 4
+    100062: Generic 5
+    100064: Generic 6
+    100066: Generic 7
+    100068: Generic 8
+    100070: Generic 9
+    100072: Hinges
+    100074: Keys
+    100076: Line510
+    100078: Piano
+    100080: //RootNode
+    400000: Generic
+    400002: Generic 1
+    400004: Generic 10
+    400006: Generic 11
+    400008: Generic 12
+    400010: Generic 13
+    400012: Generic 14
+    400014: Generic 15
+    400016: Generic 16
+    400018: Generic 17
+    400020: Generic 18
+    400022: Generic 19
+    400024: Generic 2
+    400026: Generic 20
+    400028: Generic 21
+    400030: Generic 22
+    400032: Generic 23
+    400034: Generic 24
+    400036: Generic 25
+    400038: Generic 26
+    400040: Generic 27
+    400042: Generic 28
+    400044: Generic 29
+    400046: Generic 3
+    400048: Generic 30
+    400050: Generic 31
+    400052: Generic 32
+    400054: Generic 33
+    400056: Generic 34
+    400058: Generic 35
+    400060: Generic 4
+    400062: Generic 5
+    400064: Generic 6
+    400066: Generic 7
+    400068: Generic 8
+    400070: Generic 9
+    400072: Hinges
+    400074: Keys
+    400076: Line510
+    400078: Piano
+    400080: //RootNode
+    2300000: Generic
+    2300002: Generic 1
+    2300004: Generic 10
+    2300006: Generic 11
+    2300008: Generic 12
+    2300010: Generic 13
+    2300012: Generic 14
+    2300014: Generic 15
+    2300016: Generic 16
+    2300018: Generic 17
+    2300020: Generic 18
+    2300022: Generic 19
+    2300024: Generic 2
+    2300026: Generic 20
+    2300028: Generic 21
+    2300030: Generic 22
+    2300032: Generic 23
+    2300034: Generic 24
+    2300036: Generic 25
+    2300038: Generic 26
+    2300040: Generic 27
+    2300042: Generic 28
+    2300044: Generic 29
+    2300046: Generic 3
+    2300048: Generic 30
+    2300050: Generic 31
+    2300052: Generic 32
+    2300054: Generic 33
+    2300056: Generic 34
+    2300058: Generic 35
+    2300060: Generic 4
+    2300062: Generic 5
+    2300064: Generic 6
+    2300066: Generic 7
+    2300068: Generic 8
+    2300070: Generic 9
+    2300072: Hinges
+    2300074: Keys
+    2300076: Line510
+    2300078: Piano
+    3300000: Generic
+    3300002: Generic 1
+    3300004: Generic 10
+    3300006: Generic 11
+    3300008: Generic 12
+    3300010: Generic 13
+    3300012: Generic 14
+    3300014: Generic 15
+    3300016: Generic 16
+    3300018: Generic 17
+    3300020: Generic 18
+    3300022: Generic 19
+    3300024: Generic 2
+    3300026: Generic 20
+    3300028: Generic 21
+    3300030: Generic 22
+    3300032: Generic 23
+    3300034: Generic 24
+    3300036: Generic 25
+    3300038: Generic 26
+    3300040: Generic 27
+    3300042: Generic 28
+    3300044: Generic 29
+    3300046: Generic 3
+    3300048: Generic 30
+    3300050: Generic 31
+    3300052: Generic 32
+    3300054: Generic 33
+    3300056: Generic 34
+    3300058: Generic 35
+    3300060: Generic 4
+    3300062: Generic 5
+    3300064: Generic 6
+    3300066: Generic 7
+    3300068: Generic 8
+    3300070: Generic 9
+    3300072: Hinges
+    3300074: Keys
+    3300076: Line510
+    3300078: Piano
+    4300000: Line510
+    4300002: Piano
+    4300004: Hinges
+    4300006: Keys
+    4300008: Generic
+    4300010: Generic
+    4300012: Generic
+    4300014: Generic
+    4300016: Generic
+    4300018: Generic
+    4300020: Generic
+    4300022: Generic
+    4300024: Generic
+    4300026: Generic
+    4300028: Generic
+    4300030: Generic
+    4300032: Generic
+    4300034: Generic
+    4300036: Generic
+    4300038: Generic
+    4300040: Generic
+    4300042: Generic
+    4300044: Generic
+    4300046: Generic
+    4300048: Generic
+    4300050: Generic
+    4300052: Generic
+    4300054: Generic
+    4300056: Generic
+    4300058: Generic
+    4300060: Generic
+    4300062: Generic
+    4300064: Generic
+    4300066: Generic
+    4300068: Generic
+    4300070: Generic
+    4300072: Generic
+    4300074: Generic
+    4300076: Generic
+    4300078: Generic
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

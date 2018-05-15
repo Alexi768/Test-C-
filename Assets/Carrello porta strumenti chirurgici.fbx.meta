@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: b0c2dfb55bcdd18469c7696348515be8
+timeCreated: 1525965428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carrello_porta_strumenti_chirurgici_obj
+    100004: CINEMA_4D_Editor
+    100006: Ciotola
+    100008: Ciotola2
+    100010: Cube
+    100012: Cube_1
+    100014: Cube_2
+    100016: Cube_3
+    100018: forbici
+    100020: Line001
+    100022: Line001_2
+    100024: Line002
+    100026: Medical_Scissors_06_OBJ_obj
+    100028: Pinzetta
+    100030: Pinzetta2
+    100032: Torus
+    100034: Torus_1
+    100036: Torus_2
+    100038: Torus_3
+    100040: Tweezers1
+    100042: Tweezers1_2
+    400000: //RootNode
+    400002: Carrello_porta_strumenti_chirurgici_obj
+    400004: CINEMA_4D_Editor
+    400006: Ciotola
+    400008: Ciotola2
+    400010: Cube
+    400012: Cube_1
+    400014: Cube_2
+    400016: Cube_3
+    400018: forbici
+    400020: Line001
+    400022: Line001_2
+    400024: Line002
+    400026: Medical_Scissors_06_OBJ_obj
+    400028: Pinzetta
+    400030: Pinzetta2
+    400032: Torus
+    400034: Torus_1
+    400036: Torus_2
+    400038: Torus_3
+    400040: Tweezers1
+    400042: Tweezers1_2
+    2300000: Ciotola
+    2300002: Ciotola2
+    2300004: Cube
+    2300006: Cube_1
+    2300008: Cube_2
+    2300010: Cube_3
+    2300012: forbici
+    2300014: Line001
+    2300016: Line001_2
+    2300018: Line002
+    2300020: Torus
+    2300022: Torus_1
+    2300024: Torus_2
+    2300026: Torus_3
+    2300028: Tweezers1
+    2300030: Tweezers1_2
+    3300000: Ciotola
+    3300002: Ciotola2
+    3300004: Cube
+    3300006: Cube_1
+    3300008: Cube_2
+    3300010: Cube_3
+    3300012: forbici
+    3300014: Line001
+    3300016: Line001_2
+    3300018: Line002
+    3300020: Torus
+    3300022: Torus_1
+    3300024: Torus_2
+    3300026: Torus_3
+    3300028: Tweezers1
+    3300030: Tweezers1_2
+    4300000: Line001
+    4300002: Ciotola2
+    4300004: Ciotola
+    4300006: Tweezers1
+    4300008: Tweezers1_2
+    4300010: Line002
+    4300012: Line001_2
+    4300014: forbici
+    4300016: Torus_3
+    4300018: Cube_3
+    4300020: Torus_2
+    4300022: Torus_1
+    4300024: Torus
+    4300026: Cube_2
+    4300028: Cube_1
+    4300030: Cube
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

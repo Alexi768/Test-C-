@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mental_Escape_AntonioGrassini/Scenes/Actual_Game.unity
+  isLoaded: 1
+  isActive: 1
